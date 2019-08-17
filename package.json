@@ -1,0 +1,21 @@
+{
+  "name": "@testingrequired/multiassert",
+  "version": "1.0.0",
+  "description": "A lazy implementation of Node's assert",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "assert"
+  ],
+  "files": [],
+  "author": "Kylee Tilley <kylee@testingrequired.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@testingrequired/lazy-assert": "^1.0.2",
+    "jest": "^24.8.0"
+  }
+}

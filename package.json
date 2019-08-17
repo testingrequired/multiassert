@@ -14,8 +14,10 @@
   "files": [],
   "author": "Kylee Tilley <kylee@testingrequired.com>",
   "license": "MIT",
+  "dependencies": {
+    "@testingrequired/lazy-assert": "^1.0.2"
+  },
   "devDependencies": {
-    "@testingrequired/lazy-assert": "^1.0.2",
     "jest": "^24.8.0"
   }
 }

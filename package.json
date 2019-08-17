@@ -1,6 +1,6 @@
 {
   "name": "@testingrequired/multiassert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lazy implementation of Node's assert",
   "main": "index.js",
   "scripts": {
